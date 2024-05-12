@@ -1,4 +1,4 @@
-<h1> BOOKSHOP STORE </h1>
+<h1> BOOKSHOP </h1>
 
 <h3> Coded with HTML, CSS ,JS </h3>
 
